@@ -1,20 +1,6 @@
-# Welcome to the Geometry Dash Shitty List template!
+# Welcome to the 20FPS Challenge List!
 
 # FAQ
-
----
-
-### Website FAQ
-
-Can I use the Shitty List template?
-
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
-
-The website isn't loading! What can I do?
-
-- Since no webhost is perfect, downtime is expected. You can either wait till the
-  website is back online or you can do some behind the scene stuff and run it
-  locally.
 
 ---
 
@@ -39,10 +25,3 @@ What are some common reasons for the website not loading?
   by using `Inspect Element` and going to the `Console` tab.
 
 ---
-
-## More Coming Soon!
-
-## Repo Maintainers:
-
-- Prometheus
-- Emonadeo
