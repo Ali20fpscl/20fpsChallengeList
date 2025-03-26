@@ -1,0 +1,36 @@
+{
+    "id": 115604743,
+    "name": "i lied",
+    "author": "Ezikoooo",
+    "creators": [],
+    "verifier": "Ezi :3",
+    "verification": "https://youtu.be/oInRFx2ilqM",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "GDTomon",
+            "link": "https://youtu.be/tAK7zNAisr4",
+            "percent": 100,
+            "hz": 20
+        },
+        {
+            "user": "Void-Games852",
+            "link": "https://youtu.be/14itpV3olRQ?si=nPqfQY1qPljBm51k",
+            "percent": 100,
+            "hz": 20
+        },
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=45XLDPzBz_0",
+            "percent": 100,
+            "hz": 20
+        },
+        {
+            "user": "ZacAttackVR",
+            "link": "https://youtu.be/w5vwgtmf5Eg?si=kVmPwg2cvwuewe1s",
+            "percent": 100,
+            "hz": 20
+        }
+    ]
+}

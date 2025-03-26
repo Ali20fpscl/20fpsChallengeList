@@ -3,10 +3,16 @@
     "name": "20 Fps Challenge",
     "author": "Mastexlixx",
     "creators": [],
-    "verifier": "Void Games",
+    "verifier": "Void-games852",
     "verification": "https://youtu.be/cxz6S_qkLDU?si=jEiuAH28C5gBJPEV",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=vuHLV1JLxuY",
+            "percent": 100,
+            "hz": 20
+        }
     ]
 }
